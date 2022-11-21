@@ -11,6 +11,7 @@ public class Test1 {
     }
 
     private static void getId() {
+        System.out.println("dev 添加 1");
         System.out.println("1");
         System.out.println("2");
         System.out.println("3");
